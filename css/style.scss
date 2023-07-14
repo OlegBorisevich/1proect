@@ -1,0 +1,5 @@
+$primary-color: liner-gradient(180deg, rgba(157, 141, 141, 0.8) 0%,
+         rgba(55, 0, 89, 0.8) 100%), #d17676;
+.button {
+    background: $primary-color;
+}
